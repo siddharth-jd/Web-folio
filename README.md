@@ -13,9 +13,9 @@ Ubuntu : https://phoenixnap.com/kb/install-vscode-ubuntu
 
 HTML and CSS video: https://youtu.be/G3e-cpL7ofc?si=X0vfCGYYT8DVdsO-
 
-CSS(Forms) : https://youtu.be/2O8pkybH6po?si=9YwOln816owY8uJw
+HTML(Forms) : https://youtu.be/2O8pkybH6po?si=9YwOln816owY8uJw
 
-CSS(Tables) : https://youtu.be/iDA0kF5lrVk?si=R5sR-kv90ikbELh6
+HTML(Tables) : https://youtu.be/iDA0kF5lrVk?si=R5sR-kv90ikbELh6
 
 HTML(W3 schools) : https://www.w3schools.com/html/default.asp
 
