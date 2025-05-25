@@ -3,6 +3,14 @@
 
 VS CODE Setup:  
 
+Windows : https://www.geeksforgeeks.org/how-to-install-visual-studio-code-on-windows/
+
+MacOS : https://code.visualstudio.com/docs/setup/mac
+
+Ubuntu : https://phoenixnap.com/kb/install-vscode-ubuntu
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 HTML and CSS video: https://youtu.be/G3e-cpL7ofc?si=X0vfCGYYT8DVdsO-
 
 CSS(Forms) : https://youtu.be/2O8pkybH6po?si=9YwOln816owY8uJw
