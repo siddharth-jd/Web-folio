@@ -1,0 +1,7 @@
+JavaScript as a Programming Language
+In this question, you need to find the largest prime number which is less than or equal to the number which is received as input.
+The HTML code is already provided to you in the file basic.html. 
+You need to write javascript code in the same file, and submit. (If there is no prime number less than or equal to the given number, just print 0.) 
+(Also, your final result string should be stored in the paragraph with id "result", see the HTML Code for you reference!)
+
+The website before giving an input looks as shown in Input.png

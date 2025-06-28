@@ -1,0 +1,24 @@
+Let's Manipulate
+
+In this question we will use javascript to manipulate html files provided.
+
+There is one sample.html file provided to you, which has its script linked to dom.js. 
+You need to write your code in dom.js, to manipulate the html webpage as follows:
+
+1. For all images (with <img> tag), change the source of the image to be timepass.png
+
+2. Delete all the <h1> heading tags. (Remember, no other headings should get deleted.)
+
+3. For all paragraphs (with <p> tags), change the content of the paragraphs to be "Enough of JavaScript, lets stop."
+
+4. Change all the <h2> content to make it uppercase. So, suppose you have a h2 heading saying Dont Stop, 
+then it should be converted to DONT STOP
+
+5. For any <div> container with element id = div1, add a heading (<h3>) with no text inside it.
+
+
+
+All these changes will happen when you click the Change button. 
+The change button in your html file will call a function in your javascript code. So, you need to edit that function in dom.js.
+
+Once you click the Evaluate button, the results will be shown after a few seconds, so please wait.
